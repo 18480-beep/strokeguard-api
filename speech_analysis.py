@@ -1,7 +1,7 @@
 import whisper
 import librosa
 import numpy as np
-import sounddevice as sd
+# import sounddevice as sd
 import soundfile as sf
 import tempfile, os
 
